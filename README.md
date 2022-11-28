@@ -25,10 +25,10 @@ Wipro Technologies
 - Internship (Project Code DNA Computing) June 2019 - July 2019
 IIT KGP
 #### Teaching
-
+- IKDD Summer School on Data Science (Data Science, IIT Gandhinagar)
+Teaching Assistant July 2022
 - Mathematics (Fundamental theorem of calculus, IIT Gandhinagar)
 Teaching Assistant Winter 2022
 - Data structure and algorithms (C Course, taught by Dr. Manoj Gupta, IIT Gandhinagar
 Teaching Assistant Summar 2021
-
 
