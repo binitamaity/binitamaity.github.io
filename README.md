@@ -33,7 +33,7 @@ Teaching Assistant Winter 2022
 Teaching Assistant Summar 2021
 
 
-#### VOLUNTEERING
+#### _VOLUNTEERING_
 
 
 - Indian Symposium on Machine Learning (IndoML – 2022) Dec 2022
